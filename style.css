@@ -28,6 +28,13 @@ body{
 }
 
 .rodape{
-    background-color: rgb(44, 42, 42);
+    background-color: rgb(99, 89, 89);
     margin: 0px, 0px;
+    font-size: large;
+}
+
+.lista-de-informacoes{
+    text-align: justify;
+    font-size: large;
+    
 }
